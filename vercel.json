@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "functions": {
+    "api.py": {
+      "maxDuration": 30,
+      "memory": 2048
+    }
+  },
+  "routes": [
+    { "src": "/(.*)", "dest": "/api.py" }
+  ]
+}

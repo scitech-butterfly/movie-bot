@@ -1,0 +1,8 @@
+datasets
+requests
+polars
+groq
+python-dotenv
+fastapi
+pydantic
+uvicorn
